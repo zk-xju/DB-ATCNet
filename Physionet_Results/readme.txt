@@ -1,1 +1,0 @@
-The results of the two-class and four-class classification experiments are obtained through random 10-fold cross-validation, but because the training and testing procedures are slightly different, the results are stored in slightly different ways.
