@@ -22,6 +22,7 @@ mne 0.23.4
 
 # Dataset
 The BCI Competition IV-2a dataset needs to be downloaded and the data path placed at 'data_path' variable in BCI_2A_main.py file. The dataset can be downloaded from https://www.bbci.de/competition/iv/#dataset2a.
+
 The Physionet EEG motor movement/imagery dataset needs to be downloaded and the data path placed at 'data_path' variable in Physionet_main.py file. The dataset can be downloaded from https://physionet.org/content/eegmmidb/1.0.0/.
 
 
