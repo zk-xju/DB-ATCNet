@@ -8,10 +8,6 @@ from mne.epochs import Epochs
 import mne
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
-"""
-This is a new generator that allows the data to be saved correctly.
-Run this script and then load the data with load.py
-"""
 
 def standardize_data(X_train, X_test, channels):
     # X_train & X_test :[Trials, MI-tasks, Channels, Time points]
