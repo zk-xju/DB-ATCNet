@@ -8,10 +8,15 @@ Dual-Branch Convolution Network with Efficient Channel Attention for EEG-Based M
 Models were trained and tested on Ubuntu 20.04 by a single GPU, Nvidia RTX 3080 10GB (CUDA 11.2), using Python 3.8 with TensorFlow framework. The following packages are required:
 
 TensorFlow 2.9.0
+
 matplotlib 3.5.3
+
 NumPy 1.23.1
+
 scikit-learn 1.3.0
+
 SciPy 1.10.1
+
 mne 0.23.4
 
 # Dataset
