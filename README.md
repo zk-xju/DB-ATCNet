@@ -25,4 +25,5 @@ The Physionet EEG motor movement/imagery dataset needs to be downloaded and the 
 
 # Model
 
-![1 3](https://github.com/zk-xju/DB-ATCNet/assets/156686159/28b72291-256e-4474-aa80-e6f9c9e26fba)
+
+![1 4](https://github.com/zk-xju/DB-ATCNet/assets/156686159/99f2e790-57f6-43cb-9729-56272b98b027)
