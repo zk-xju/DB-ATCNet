@@ -3,6 +3,8 @@
 
 Dual-Branch Convolution Network with Efficient Channel Attention for EEG-Based Motor Imagery Classification
 
+This paper is an improvement on the paper "Attention temporal convolutional network for EEG-based motor imagery classification". The code is used again in the "https://github.com/Altaheri/EEG-ATCNet". Kudos to the original authors for their open source and contributions.
+
 ![1 4](https://github.com/zk-xju/DB-ATCNet/assets/156686159/99f2e790-57f6-43cb-9729-56272b98b027)
 
 # Development environment
